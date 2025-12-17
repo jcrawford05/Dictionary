@@ -70,7 +70,7 @@ Several input files are included for testing and benchmarking:
 Detailed timing experiments and analysis of dictionary operations are documented
 in a separate report:
 
-- `TIMING_ANALYSIS.md`
+- [Timing Analysis](Dictionary/TIMING_ANALYSIS.md)
 
 This report evaluates runtime behavior, compares observed performance against
 theoretical expectations, and discusses design tradeoffs.
